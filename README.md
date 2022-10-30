@@ -8,7 +8,7 @@ Building a perosnal Porffolio website that highlights projects which I have crea
 
 ## Screenshot
 
-![Project ScreenShot](https://user-images.githubusercontent.com/114302485/198901115-7070cc50-3a19-4a0c-bb5d-d20efe805417.png)
+![Project ScreenShot](https://user-images.githubusercontent.com/114302485/198903642-9a8e3f0c-9248-42f8-8e96-c4ba26ad682b.png)
 
 ## Link
 
