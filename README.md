@@ -16,4 +16,4 @@ https://hazimelhalabi.github.io/Portfolio/
 
 ## Credits
 
-Some projects that have been used in this Portfolio, have been created (design and code) and provided by bootcampspot. 
+Some projects that have been used in this Portfolio, have been created and provided by bootcampspot as part of class/student activities
