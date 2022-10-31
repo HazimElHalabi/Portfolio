@@ -142,3 +142,16 @@ a:hover {
     margin: 0px;
     transition: 0.3s;
 }
+@media only screen and (max-width: 1000px) {
+  #categoryGrid {
+    grid-template-rows: 300px 300px 300px 300px 300px;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "project-1"
+      "project-2"
+      "project-3"
+      "project-4"
+      "project-5"
+    ;
+  }
+}
