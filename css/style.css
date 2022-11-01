@@ -143,8 +143,27 @@ a:hover {
     transition: 0.3s;
 }
 @media only screen and (max-width: 1000px) {
+  body {
+    margin: 1px;
+    padding: 1px;
+  }
+  nav {
+    padding: 5px 30px 5px 10px;
+  }
+  #bio-image {
+    margin: 5px 5px 5px 40px;
+    height: 50%;
+    width: 50%;
+  }
+  h1 {
+    margin: 5px 5px 0px 5px;
+    font-size: 75%;
+  }
+  h3 {
+    font-size: 75%;
+  }
   #work {
-    grid-template-rows: 300px 300px 300px 300px 300px;
+    grid-template-rows: 200px 150px 150px 150px 150px;
     grid-template-columns: 1fr;
     grid-template-areas:
       "project-1"
@@ -153,5 +172,11 @@ a:hover {
       "project-4"
       "project-5"
     ;
+  }
+  li {
+    font-size: 50%;
+  }
+  a {
+    font-size: 50%;
   }
 }
