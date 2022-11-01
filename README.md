@@ -10,11 +10,11 @@ Building a perosnal Porffolio website that highlights projects which I have crea
 
 Full size Website:
 
-![Project ScreenShot](https://user-images.githubusercontent.com/114302485/198903642-9a8e3f0c-9248-42f8-8e96-c4ba26ad682b.png)
+![Project ScreenShot](https://user-images.githubusercontent.com/114302485/199248369-b8def471-25f5-4fb4-892f-97602ad53f05.png)
 
 Display on Samsung Galaxy Fold:
 
-![Project ScreenShot Media Query](https://user-images.githubusercontent.com/114302485/199132651-a1833b73-4662-4cd3-a429-ba9bef48b450.png)
+![Project ScreenShot Media Query](https://user-images.githubusercontent.com/114302485/199248459-8b8cbf38-0fd3-4769-8565-2b50bb0a1831.png)
 
 ## Link
 
